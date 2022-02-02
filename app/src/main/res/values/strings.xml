@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StreetResults</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_button">ADD</string>
+    <string name="add">+</string>
+    <string name="playingTeambutton">PLAYING TEAM 1</string>
+    <string name="playingTeambutton2">PLAYING TEAM 2</string>
+    <string name="clearbutton">CLEAR</string>
+    <string name="TeamName">Team Name</string>
+    <string name="Points">Points:</string>
+    <string name="number">0</string>
+    <string name="resulttext">Team1:0-1:Team2</string>
+    <string name="delete_player">Delete player</string>
+    <string name="addpoins_button">Add points</string>
+    <string name="resetpoints">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+</resources>
